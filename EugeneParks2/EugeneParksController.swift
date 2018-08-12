@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  EugeneParksController.swift
 //  EugeneParks2
 //
 //  Created by Dylan Edwards on 8/12/18.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class EugeneParksController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
