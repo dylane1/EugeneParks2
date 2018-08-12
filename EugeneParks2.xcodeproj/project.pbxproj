@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A30A267621200E7400EE79D8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A30A267521200E7400EE79D8 /* AppDelegate.swift */; };
-		A30A267821200E7500EE79D8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A30A267721200E7500EE79D8 /* ViewController.swift */; };
+		A30A267821200E7500EE79D8 /* EugeneParksController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A30A267721200E7500EE79D8 /* EugeneParksController.swift */; };
 		A30A267B21200E7500EE79D8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A30A267921200E7500EE79D8 /* Main.storyboard */; };
 		A30A267E21200E7500EE79D8 /* EugeneParks2.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A30A267C21200E7500EE79D8 /* EugeneParks2.xcdatamodeld */; };
 		A30A268021200E7800EE79D8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A30A267F21200E7800EE79D8 /* Assets.xcassets */; };
@@ -37,7 +37,7 @@
 /* Begin PBXFileReference section */
 		A30A267221200E7400EE79D8 /* EugeneParks2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EugeneParks2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A30A267521200E7400EE79D8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		A30A267721200E7500EE79D8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A30A267721200E7500EE79D8 /* EugeneParksController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EugeneParksController.swift; sourceTree = "<group>"; };
 		A30A267A21200E7500EE79D8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A30A267D21200E7500EE79D8 /* EugeneParks2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = EugeneParks2.xcdatamodel; sourceTree = "<group>"; };
 		A30A267F21200E7800EE79D8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -100,7 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				A30A267521200E7400EE79D8 /* AppDelegate.swift */,
-				A30A267721200E7500EE79D8 /* ViewController.swift */,
+				A30A267721200E7500EE79D8 /* EugeneParksController.swift */,
 				A30A267921200E7500EE79D8 /* Main.storyboard */,
 				A30A267F21200E7800EE79D8 /* Assets.xcassets */,
 				A30A268121200E7800EE79D8 /* LaunchScreen.storyboard */,
@@ -277,7 +277,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A30A267821200E7500EE79D8 /* ViewController.swift in Sources */,
+				A30A267821200E7500EE79D8 /* EugeneParksController.swift in Sources */,
 				A30A267621200E7400EE79D8 /* AppDelegate.swift in Sources */,
 				A30A267E21200E7500EE79D8 /* EugeneParks2.xcdatamodeld in Sources */,
 			);
